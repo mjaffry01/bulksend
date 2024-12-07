@@ -1,0 +1,9 @@
+{
+  "Redis": {
+    "ConnectionString": "bulkmessages.redis.cache.windows.net:6380,password=mtRh8pkazc0GOwgYS64r1pJzIe0pQHkrfAzCaKruBn4=,ssl=True",
+    "QueueName": "emailTasks"
+  },
+  "SendGrid": {
+    "ApiKey": "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"
+  }
+}

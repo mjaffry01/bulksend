@@ -1,0 +1,20 @@
+{
+  "SenderEmail": "mjaffry014@gmail.com",
+  "SenderName": "Md Ali",
+  "Subject": "Welcome to Our Service",
+  "ContentTemplate": "Dear {{salutation}},\n\nWe are thrilled to have you on board!\n\nThank you,\nThe Team",
+  "Recipients": [
+    {
+      "Email": "mjaffry02@gmail.com",
+      "Salutation": "Mr. Ali"
+    },
+    {
+      "Email": "mjaffry014@gmail.com",
+      "Salutation": "Dr. Jaffrey"
+    },
+    {
+      "Email": "mjaffry04@outlook.com",
+      "Salutation": "Ms. Fatima"
+    }
+  ]
+}

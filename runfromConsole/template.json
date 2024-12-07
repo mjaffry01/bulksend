@@ -1,0 +1,4 @@
+{
+  "Subject": "Welcome to Our Service",
+  "ContentTemplate": "Dear {{salutation}},\n\nWe are thrilled to have you on board!\n\nThank you,\nThe Team"
+}
